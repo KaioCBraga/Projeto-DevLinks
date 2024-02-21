@@ -34,8 +34,12 @@ body * {
 }
 
 #container {
+<<<<<<< HEAD
   width: 100%;
   max-width: 588px;
+=======
+  width: 360px;
+>>>>>>> f23ea01922a8578321a4bfa5194a118df03fbfdf
   margin: 56px auto 0px;
   padding: 0 24px;
 }
